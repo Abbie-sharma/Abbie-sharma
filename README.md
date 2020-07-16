@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 --> 
 - :mortar_board: Masters in Computer Applications
 - :school_satchel: at ... Indira Gandhi Delhi Technical University for Women
-- :mailbox: How to reach me ...  @AbhipriyaSharma
+- :mailbox: How to reach me ...  https://twitter.com/AbhipriyaSharma
 - 🌱 I’m currently learning ML , AI , Web Dev & everything else I can 
